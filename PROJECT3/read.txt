@@ -1,0 +1,19 @@
+*****************IMPORTANT***************
+
+Install PyQt5 Library too run the app.
+
+*****************************************
+
+
+Download the file and run the ui.py.
+
+The link for the colab is inside of reccomendations.py
+
+
+
+
+Project made by: George Rosa-Acosta
+		 Margarida Jervis
+		 Nelson Rabasquinho
+		 Ugo Gallo
+

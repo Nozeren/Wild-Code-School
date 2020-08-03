@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="searchimage">
+    <file>baseline_search_white_18dp.png</file>
+  </qresource>
+  <qresource prefix="Movies Image">
+    <file>Captura de ecrã 2020-05-28, às 11.18.43.png</file>
+    <file>The_Matrix_Poster.jpg</file>
+    <file>Silence_of_the_lambs.png</file>
+    <file>230px-Pulp_Fiction_cover.jpg</file>
+    <file>ForrestGumpPoster.jpg</file>
+    <file>the-shawshank-redemption.jpg</file>
+    <file>the-shawshank-redemption.jpg</file>
+  </qresource>
+  <qresource prefix="home">
+    <file>home-5-32.png</file>
+  </qresource>
+</RCC>
